@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7234
     wikipedia: http://en.wikipedia.org/wiki/John_Todhunter
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34085#Shelley-and-the-Marriage-Question
 gutenberg_issued: '2010-10-16'
 gutenberg_type: Text
 identifiers:
